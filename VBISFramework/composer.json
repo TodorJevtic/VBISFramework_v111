@@ -1,0 +1,9 @@
+{
+    "name": "petar/vbis-framework",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
